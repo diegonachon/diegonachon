@@ -1,6 +1,6 @@
 # Hello there 👋
 
-![](https://github.com/diegonachon/diegonachon/banner-image.png)
+![](https://github.com/diegonachon/diegonachon/blob/master/banner-image.png)
 
 Im Diego Cornejo, Industrial Engineer from Universidad de Chile, working on several health-related machine learning and deep learning projects.
 
