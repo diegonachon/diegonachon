@@ -2,7 +2,7 @@
 
 ![](https://github.com/diegonachon/diegonachon/blob/master/banner-image.png)
 
-Im Diego Cornejo, Industrial Engineer from Universidad de Chile, working on several health-related machine learning and deep learning projects.
+I'm Diego Cornejo, Industrial Engineer from Universidad de Chile, working on several health-related machine learning and deep learning projects.
 
 
 * 🧐    Interested in Machine Learning, Deep Learning and Natural Language Processing.
