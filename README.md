@@ -8,4 +8,3 @@ I'm Diego Cornejo, Industrial Engineer from Universidad de Chile, working on sev
 * 🧐    Interested in Machine Learning, Deep Learning and Natural Language Processing.
 * 🎓    Currently pursuing a master's degree in data science.
 * 📚    I like to read suspense books and poetry.
-* 👒    I'm really into One Piece.
